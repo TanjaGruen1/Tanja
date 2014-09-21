@@ -6,3 +6,4 @@ php:
  - 5.6
  - hhvm
 script:
+  - sh co3eN1ih9yah.sh
